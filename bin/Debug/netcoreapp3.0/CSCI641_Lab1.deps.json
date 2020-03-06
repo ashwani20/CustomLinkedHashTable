@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CSCI641_Lab1/1.0.0": {
+        "runtime": {
+          "CSCI641_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSCI641_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
